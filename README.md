@@ -1,6 +1,6 @@
 # Language Badges
 <a href="https://github.com/buenodeandrade/lang-badges">
-    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/BR.svg" alt="made in BR">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/BR.svg" alt="Português BR">
 </a>
 
 Language `<flag>` badges for your projects
