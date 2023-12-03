@@ -13,7 +13,7 @@ Just include the following snippet in your project's README file:
 
 ```html
 <a href="https://github.com/buenodeandrade/lang-badges">
-    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/<country code>.svg" alt="made in <country code>">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/<country code>.svg" alt="Language <country code>">
 </a>
 ```
 
