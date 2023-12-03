@@ -1,17 +1,19 @@
-# flag-badges
-<a href="https://github.com/pedromxavier/flag-badges">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/BR.svg" alt="made in BR">
+# Language Badges
+<a href="https://github.com/buenodeandrade/lang-badges">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/BR.svg" alt="made in BR">
 </a>
 
-made in `<flag>` badges for your projects
+Language `<flag>` badges for your projects
+
+Based on [pedromxavier](https://github.com/pedromxavier) [flag-badges](https://github.com/pedromxavier/flag-badges) repository.
 
 ## Usage
 
 Just include the following snippet in your project's README file:
 
 ```html
-<a href="https://github.com/pedromxavier/flag-badges">
-    <img src="https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/<country code>.svg" alt="made in <country code>">
+<a href="https://github.com/buenodeandrade/lang-badges">
+    <img src="https://raw.githubusercontent.com/buenodeandrade/lang-badges/main/badges/<country code>.svg" alt="made in <country code>">
 </a>
 ```
 
