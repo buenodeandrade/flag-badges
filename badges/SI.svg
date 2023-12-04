@@ -18,7 +18,7 @@
         <rect width="86.00" height="20.00" fill="url(#s)" />
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
-        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="450">made in</text>
-        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="450">made in</text>
+        <text aria-hidden="true" x="285" y="150" fill="#010101" fill-opacity=".3" transform="scale(.1)" textLength="540">Slovenščina</text>
+        <text x="285" y="140" transform="scale(.1)" fill="#fff" textLength="540">Slovenščina</text>
     </g>
 </svg>
