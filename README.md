@@ -48,6 +48,7 @@ exchanging `<country code>` for the [alpha-2 code](https://en.wikipedia.org/wiki
 [![Bermuda](badges/BM.svg)](badges/BM.svg)
 [![Brunei Darussalam](badges/BN.svg)](badges/BN.svg)
 [![Bolivia (Plurinational State of)](badges/BO.svg)](badges/BO.svg)
+[![Bonaire](badges/BQ.svg)](badges/BQ.svg)
 [![Brazil](badges/BR.svg)](badges/BR.svg)
 [![Bahamas](badges/BS.svg)](badges/BS.svg)
 [![Bhutan](badges/BT.svg)](badges/BT.svg)
